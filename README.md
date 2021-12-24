@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+## Merry Christmas everyone!
+## Check my Xmas web site and happy new year!
 <!--
 **josushell/josushell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Merry Christmas everyone!
 ![frame](https://user-images.githubusercontent.com/63590121/147364385-53b4e925-e853-43eb-bb67-d2b5b61bf97c.png)
