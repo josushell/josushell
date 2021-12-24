@@ -1,6 +1,6 @@
 # Merry Christmas everyone! 
 Check my XMAS web site and happy new year!
-(I made this for 10 minutes🙃)
+(I made this for 10 minutes with my friend just for fun lol🙃)
 <!--
 **josushell/josushell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
