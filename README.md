@@ -1,3 +1,6 @@
+[![suejo's 42 stats](https://badge42.vercel.app/api/v2/cl1oo33s5000609mlcccyenr0/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
+
+
 # Merry Christmas everyone! 
 Check my XMAS web site and happy new year!
 (I made this for 10 minutes with my friend just for fun lol🙃)
