@@ -1,5 +1,8 @@
 [![suejo's 42 stats](https://badge42.vercel.app/api/v2/cl1oo33s5000609mlcccyenr0/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
-
+<br>
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=josushell&theme=dark)](https://leetcode.com/josushell)
+ <br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoy07030)](https://solved.ac/yoy07030/)
 
 # Merry Christmas everyone! 
 Check my XMAS web site and happy new year!
