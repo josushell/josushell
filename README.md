@@ -5,8 +5,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoy07030)](https://solved.ac/yoy07030/)
 
 # Merry Christmas everyone! 
-Check my XMAS web site and happy new year!
-(I made this for 10 minutes with my friend just for fun lol🙃)
+Check my XMAS web site version 2022 and happy new year!
+(I made this for 10 minutes with @minju just for fun lol🙃)
 <!--
 **josushell/josushell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![frame](https://user-images.githubusercontent.com/63590121/147364385-53b4e925-e853-43eb-bb67-d2b5b61bf97c.png)
+![frame](https://user-images.githubusercontent.com/63590121/209170997-ed3f18e8-2ca8-4449-8cb7-9d44e67c7c9f.png)
